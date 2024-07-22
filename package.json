@@ -1,5 +1,5 @@
 {
-  "name": "@asuna/koishi-plugin-github-parser",
+  "name": "@asuna-bot/koishi-plugin-github-parser",
   "description": "解析 Github 链接",
   "version": "0.0.1",
   "main": "lib/index.js",
